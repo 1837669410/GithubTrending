@@ -1,0 +1,92 @@
+{
+    "maigret": {
+        "desc": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+        "info": {
+            "language": "python",
+            "stars_num": "12,126",
+            "forks_num": "875",
+            "today_stars_num": "79 stars today"
+        }
+    },
+    "grok-1": {
+        "desc": "Grok open release",
+        "info": {
+            "language": "python",
+            "stars_num": "49,702",
+            "forks_num": "8,334",
+            "today_stars_num": "10 stars today"
+        }
+    },
+    "fish-speech": {
+        "desc": "SOTA Open Source TTS",
+        "info": {
+            "language": "python",
+            "stars_num": "16,697",
+            "forks_num": "1,256",
+            "today_stars_num": "190 stars today"
+        }
+    },
+    "qiskit": {
+        "desc": "Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",
+        "info": {
+            "language": "python",
+            "stars_num": "5,366",
+            "forks_num": "2,397",
+            "today_stars_num": "12 stars today"
+        }
+    },
+    "mPLUG-DocOwl": {
+        "desc": "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding",
+        "info": {
+            "language": "python",
+            "stars_num": "1,909",
+            "forks_num": "114",
+            "today_stars_num": "61 stars today"
+        }
+    },
+    "torchgeo": {
+        "desc": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+        "info": {
+            "language": "python",
+            "stars_num": "3,045",
+            "forks_num": "365",
+            "today_stars_num": "166 stars today"
+        }
+    },
+    "system-design-primer": {
+        "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "info": {
+            "language": "python",
+            "stars_num": "278,907",
+            "forks_num": "46,673",
+            "today_stars_num": "107 stars today"
+        }
+    },
+    "PDFMathTranslate": {
+        "desc": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+        "info": {
+            "language": "python",
+            "stars_num": "4,152",
+            "forks_num": "282",
+            "today_stars_num": "118 stars today"
+        }
+    },
+    "YYeTsBot": {
+        "desc": "🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享",
+        "info": {
+            "language": "python",
+            "stars_num": "14,602",
+            "forks_num": "1,789",
+            "today_stars_num": "55 stars today"
+        }
+    },
+    "llama-models": {
+        "desc": "Utilities intended for use with Llama models.",
+        "info": {
+            "language": "python",
+            "stars_num": "5,251",
+            "forks_num": "876",
+            "today_stars_num": "110 stars today"
+        }
+    }
+}

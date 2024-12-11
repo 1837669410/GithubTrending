@@ -1,0 +1,209 @@
+{
+    "ollama": {
+        "desc": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+        "info": {
+            "language": "Go",
+            "stars_num": "102,214",
+            "forks_num": "8,152",
+            "today_stars_num": "335 stars today"
+        }
+    },
+    "terraformer": {
+        "desc": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+        "info": {
+            "language": "Go",
+            "stars_num": "12,815",
+            "forks_num": "1,664",
+            "today_stars_num": "17 stars today"
+        }
+    },
+    "gjson": {
+        "desc": "Get JSON values quickly - JSON parser for Go",
+        "info": {
+            "language": "Go",
+            "stars_num": "14,482",
+            "forks_num": "862",
+            "today_stars_num": "30 stars today"
+        }
+    },
+    "daytona": {
+        "desc": "The Open Source Dev Environment Manager.",
+        "info": {
+            "language": "Go",
+            "stars_num": "13,158",
+            "forks_num": "1,015",
+            "today_stars_num": "151 stars today"
+        }
+    },
+    "websocket": {
+        "desc": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+        "info": {
+            "language": "Go",
+            "stars_num": "22,575",
+            "forks_num": "3,492",
+            "today_stars_num": "14 stars today"
+        }
+    },
+    "pocketbase": {
+        "desc": "Open Source realtime backend in 1 file",
+        "info": {
+            "language": "Go",
+            "stars_num": "42,022",
+            "forks_num": "1,968",
+            "today_stars_num": "198 stars today"
+        }
+    },
+    "subfinder": {
+        "desc": "Fast passive subdomain enumeration tool.",
+        "info": {
+            "language": "Go",
+            "stars_num": "10,411",
+            "forks_num": "1,290",
+            "today_stars_num": "6 stars today"
+        }
+    },
+    "trivy": {
+        "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "info": {
+            "language": "Go",
+            "stars_num": "23,981",
+            "forks_num": "2,355",
+            "today_stars_num": "19 stars today"
+        }
+    },
+    "node_exporter": {
+        "desc": "Exporter for machine metrics",
+        "info": {
+            "language": "Go",
+            "stars_num": "11,364",
+            "forks_num": "2,385",
+            "today_stars_num": "9 stars today"
+        }
+    },
+    "teleport": {
+        "desc": "The easiest, and most secure way to access and protect all of your infrastructure.",
+        "info": {
+            "language": "Go",
+            "stars_num": "17,751",
+            "forks_num": "1,776",
+            "today_stars_num": "18 stars today"
+        }
+    },
+    "prometheus": {
+        "desc": "The Prometheus monitoring system and time series database.",
+        "info": {
+            "language": "Go",
+            "stars_num": "56,209",
+            "forks_num": "9,218",
+            "today_stars_num": "7 stars today"
+        }
+    },
+    "VictoriaMetrics": {
+        "desc": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+        "info": {
+            "language": "Go",
+            "stars_num": "12,744",
+            "forks_num": "1,253",
+            "today_stars_num": "11 stars today"
+        }
+    },
+    "cobra": {
+        "desc": "A Commander for modern Go CLI interactions",
+        "info": {
+            "language": "Go",
+            "stars_num": "38,547",
+            "forks_num": "2,858",
+            "today_stars_num": "17 stars today"
+        }
+    },
+    "gocron": {
+        "desc": "Easy and fluent Go cron scheduling. This is a fork from",
+        "info": {
+            "language": "Go",
+            "stars_num": "5,732",
+            "forks_num": "309",
+            "today_stars_num": "4 stars today"
+        }
+    },
+    "yq": {
+        "desc": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+        "info": {
+            "language": "Go",
+            "stars_num": "12,462",
+            "forks_num": "608",
+            "today_stars_num": "9 stars today"
+        }
+    },
+    "zerolog": {
+        "desc": "Zero Allocation JSON Logger",
+        "info": {
+            "language": "Go",
+            "stars_num": "10,733",
+            "forks_num": "573",
+            "today_stars_num": "9 stars today"
+        }
+    },
+    "direnv": {
+        "desc": "unclutter your .profile",
+        "info": {
+            "language": "Go",
+            "stars_num": "12,730",
+            "forks_num": "645",
+            "today_stars_num": "14 stars today"
+        }
+    },
+    "nuclei": {
+        "desc": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+        "info": {
+            "language": "Go",
+            "stars_num": "20,981",
+            "forks_num": "2,532",
+            "today_stars_num": "15 stars today"
+        }
+    },
+    "mediamtx": {
+        "desc": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+        "info": {
+            "language": "Go",
+            "stars_num": "12,613",
+            "forks_num": "1,555",
+            "today_stars_num": "16 stars today"
+        }
+    },
+    "gin-vue-admin": {
+        "desc": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+        "info": {
+            "language": "Go",
+            "stars_num": "21,839",
+            "forks_num": "6,447",
+            "today_stars_num": "18 stars today"
+        }
+    },
+    "alertmanager": {
+        "desc": "Prometheus Alertmanager",
+        "info": {
+            "language": "Go",
+            "stars_num": "6,717",
+            "forks_num": "2,173",
+            "today_stars_num": "5 stars today"
+        }
+    },
+    "go-git": {
+        "desc": "A highly extensible Git implementation in pure Go.",
+        "info": {
+            "language": "Go",
+            "stars_num": "6,058",
+            "forks_num": "752",
+            "today_stars_num": "4 stars today"
+        }
+    },
+    "go-github": {
+        "desc": "Go library for accessing the GitHub v3 API",
+        "info": {
+            "language": "Go",
+            "stars_num": "10,487",
+            "forks_num": "2,071",
+            "today_stars_num": "1 star today"
+        }
+    }
+}

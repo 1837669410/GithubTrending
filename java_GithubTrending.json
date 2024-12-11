@@ -1,0 +1,200 @@
+{
+    "SmartTube": {
+        "desc": "SmartTube - an advanced player for set-top boxes and tvs running Android OS",
+        "info": {
+            "language": "java",
+            "stars_num": "20,349",
+            "forks_num": "1,093",
+            "today_stars_num": "64 stars today"
+        }
+    },
+    "bazel": {
+        "desc": "a fast, scalable, multi-language and extensible build system",
+        "info": {
+            "language": "java",
+            "stars_num": "23,360",
+            "forks_num": "4,101",
+            "today_stars_num": "13 stars today"
+        }
+    },
+    "keycloak": {
+        "desc": "Open Source Identity and Access Management For Modern Applications and Services",
+        "info": {
+            "language": "java",
+            "stars_num": "23,996",
+            "forks_num": "6,868",
+            "today_stars_num": "20 stars today"
+        }
+    },
+    "Telegram": {
+        "desc": "Telegram for Android source",
+        "info": {
+            "language": "java",
+            "stars_num": "25,454",
+            "forks_num": "8,187",
+            "today_stars_num": "67 stars today"
+        }
+    },
+    "spring-boot": {
+        "desc": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+        "info": {
+            "language": "java",
+            "stars_num": "75,526",
+            "forks_num": "40,772",
+            "today_stars_num": "14 stars today"
+        }
+    },
+    "spring-framework": {
+        "desc": "Spring Framework",
+        "info": {
+            "language": "java",
+            "stars_num": "56,872",
+            "forks_num": "38,206",
+            "today_stars_num": "9 stars today"
+        }
+    },
+    "RxJava": {
+        "desc": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+        "info": {
+            "language": "java",
+            "stars_num": "47,940",
+            "forks_num": "7,602",
+            "today_stars_num": "2 stars today"
+        }
+    },
+    "iceberg": {
+        "desc": "Apache Iceberg",
+        "info": {
+            "language": "java",
+            "stars_num": "6,606",
+            "forks_num": "2,272",
+            "today_stars_num": "4 stars today"
+        }
+    },
+    "antlr4": {
+        "desc": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
+        "info": {
+            "language": "java",
+            "stars_num": "17,327",
+            "forks_num": "3,300",
+            "today_stars_num": "7 stars today"
+        }
+    },
+    "ruoyi-vue-pro": {
+        "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+        "info": {
+            "language": "java",
+            "stars_num": "28,220",
+            "forks_num": "6,045",
+            "today_stars_num": "31 stars today"
+        }
+    },
+    "JavaGuide": {
+        "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+        "info": {
+            "language": "java",
+            "stars_num": "147,276",
+            "forks_num": "45,647",
+            "today_stars_num": "27 stars today"
+        }
+    },
+    "opentelemetry-java-instrumentation": {
+        "desc": "OpenTelemetry auto-instrumentation and instrumentation libraries for Java",
+        "info": {
+            "language": "java",
+            "stars_num": "2,001",
+            "forks_num": "867",
+            "today_stars_num": "1 star today"
+        }
+    },
+    "hibernate-orm": {
+        "desc": "Hibernate's core Object/Relational Mapping functionality",
+        "info": {
+            "language": "java",
+            "stars_num": "6,012",
+            "forks_num": "3,562",
+            "today_stars_num": "2 stars today"
+        }
+    },
+    "intellij-community": {
+        "desc": "IntelliJ IDEA Community Edition & IntelliJ Platform",
+        "info": {
+            "language": "java",
+            "stars_num": "17,454",
+            "forks_num": "5,300",
+            "today_stars_num": "6 stars today"
+        }
+    },
+    "hello-algo": {
+        "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+        "info": {
+            "language": "java",
+            "stars_num": "102,980",
+            "forks_num": "12,916",
+            "today_stars_num": "163 stars today"
+        }
+    },
+    "micronaut-core": {
+        "desc": "Micronaut Application Framework",
+        "info": {
+            "language": "java",
+            "stars_num": "6,113",
+            "forks_num": "1,073",
+            "today_stars_num": "1 star today"
+        }
+    },
+    "awesome-low-level-design": {
+        "desc": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+        "info": {
+            "language": "java",
+            "stars_num": "8,995",
+            "forks_num": "2,334",
+            "today_stars_num": "22 stars today"
+        }
+    },
+    "SPatch-Update": {
+        "desc": "Update for SPatch nightly",
+        "info": {
+            "language": "java",
+            "stars_num": "1,012",
+            "forks_num": "81",
+            "today_stars_num": "1 star today"
+        }
+    },
+    "HeliBoard": {
+        "desc": "Customizable and privacy-conscious open-source keyboard",
+        "info": {
+            "language": "java",
+            "stars_num": "2,547",
+            "forks_num": "100",
+            "today_stars_num": "7 stars today"
+        }
+    },
+    "spring-cloud-gateway": {
+        "desc": "An API Gateway built on Spring Framework and Spring Boot providing routing and more.",
+        "info": {
+            "language": "java",
+            "stars_num": "4,559",
+            "forks_num": "3,335",
+            "today_stars_num": "1 star today"
+        }
+    },
+    "apollo": {
+        "desc": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
+        "info": {
+            "language": "java",
+            "stars_num": "29,231",
+            "forks_num": "10,217",
+            "today_stars_num": "4 stars today"
+        }
+    },
+    "rewrite": {
+        "desc": "Automated mass refactoring of source code.",
+        "info": {
+            "language": "java",
+            "stars_num": "2,340",
+            "forks_num": "348",
+            "today_stars_num": "13 stars today"
+        }
+    }
+}

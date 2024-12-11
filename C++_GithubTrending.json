@@ -1,0 +1,209 @@
+{
+    "bitcoin": {
+        "desc": "Bitcoin Core integration/staging tree",
+        "info": {
+            "language": "C++",
+            "stars_num": "80,508",
+            "forks_num": "36,534",
+            "today_stars_num": "125 stars today"
+        }
+    },
+    "firmware": {
+        "desc": "Meshtastic device firmware",
+        "info": {
+            "language": "C++",
+            "stars_num": "3,719",
+            "forks_num": "935",
+            "today_stars_num": "19 stars today"
+        }
+    },
+    "DagorEngine": {
+        "desc": "Dagor Engine and Tools source code from Gaijin Games KFT",
+        "info": {
+            "language": "C++",
+            "stars_num": "2,477",
+            "forks_num": "287",
+            "today_stars_num": "160 stars today"
+        }
+    },
+    "gpt4all": {
+        "desc": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "info": {
+            "language": "C++",
+            "stars_num": "71,086",
+            "forks_num": "7,737",
+            "today_stars_num": "17 stars today"
+        }
+    },
+    "imgui": {
+        "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+        "info": {
+            "language": "C++",
+            "stars_num": "61,690",
+            "forks_num": "10,386",
+            "today_stars_num": "23 stars today"
+        }
+    },
+    "navigation2": {
+        "desc": "ROS 2 Navigation Framework and System",
+        "info": {
+            "language": "C++",
+            "stars_num": "2,660",
+            "forks_num": "1,321",
+            "today_stars_num": "5 stars today"
+        }
+    },
+    "protobuf": {
+        "desc": "Protocol Buffers - Google's data interchange format",
+        "info": {
+            "language": "C++",
+            "stars_num": "65,973",
+            "forks_num": "15,541",
+            "today_stars_num": "13 stars today"
+        }
+    },
+    "mame": {
+        "desc": "MAME",
+        "info": {
+            "language": "C++",
+            "stars_num": "8,492",
+            "forks_num": "2,054",
+            "today_stars_num": "29 stars today"
+        }
+    },
+    "Catch2": {
+        "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "info": {
+            "language": "C++",
+            "stars_num": "18,812",
+            "forks_num": "3,059",
+            "today_stars_num": "5 stars today"
+        }
+    },
+    "llama.cpp": {
+        "desc": "LLM inference in C/C++",
+        "info": {
+            "language": "C++",
+            "stars_num": "69,075",
+            "forks_num": "9,922",
+            "today_stars_num": "54 stars today"
+        }
+    },
+    "iree": {
+        "desc": "A retargetable MLIR-based machine learning compiler and runtime toolkit.",
+        "info": {
+            "language": "C++",
+            "stars_num": "2,892",
+            "forks_num": "629",
+            "today_stars_num": "6 stars today"
+        }
+    },
+    "deskflow": {
+        "desc": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).",
+        "info": {
+            "language": "C++",
+            "stars_num": "14,230",
+            "forks_num": "3,817",
+            "today_stars_num": "32 stars today"
+        }
+    },
+    "risc0": {
+        "desc": "RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.",
+        "info": {
+            "language": "C++",
+            "stars_num": "1,724",
+            "forks_num": "443",
+            "today_stars_num": "0 stars today"
+        }
+    },
+    "velox": {
+        "desc": "A composable and fully extensible C++ execution engine library for data management systems.",
+        "info": {
+            "language": "C++",
+            "stars_num": "3,551",
+            "forks_num": "1,175",
+            "today_stars_num": "2 stars today"
+        }
+    },
+    "spdlog": {
+        "desc": "Fast C++ logging library.",
+        "info": {
+            "language": "C++",
+            "stars_num": "24,661",
+            "forks_num": "4,599",
+            "today_stars_num": "15 stars today"
+        }
+    },
+    "googletest": {
+        "desc": "GoogleTest - Google Testing and Mocking Framework",
+        "info": {
+            "language": "C++",
+            "stars_num": "35,012",
+            "forks_num": "10,190",
+            "today_stars_num": "19 stars today"
+        }
+    },
+    "qgroundcontrol": {
+        "desc": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+        "info": {
+            "language": "C++",
+            "stars_num": "3,360",
+            "forks_num": "3,676",
+            "today_stars_num": "4 stars today"
+        }
+    },
+    "oneTBB": {
+        "desc": "oneAPI Threading Building Blocks (oneTBB)",
+        "info": {
+            "language": "C++",
+            "stars_num": "5,785",
+            "forks_num": "1,030",
+            "today_stars_num": "4 stars today"
+        }
+    },
+    "OrcaSlicer": {
+        "desc": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+        "info": {
+            "language": "C++",
+            "stars_num": "7,615",
+            "forks_num": "918",
+            "today_stars_num": "15 stars today"
+        }
+    },
+    "TensorRT-LLM": {
+        "desc": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+        "info": {
+            "language": "C++",
+            "stars_num": "8,868",
+            "forks_num": "1,020",
+            "today_stars_num": "10 stars today"
+        }
+    },
+    "flatbuffers": {
+        "desc": "FlatBuffers: Memory Efficient Serialization Library",
+        "info": {
+            "language": "C++",
+            "stars_num": "23,457",
+            "forks_num": "3,259",
+            "today_stars_num": "6 stars today"
+        }
+    },
+    "websocketpp": {
+        "desc": "C++ websocket client/server library",
+        "info": {
+            "language": "C++",
+            "stars_num": "7,115",
+            "forks_num": "1,978",
+            "today_stars_num": "4 stars today"
+        }
+    },
+    "CPlusPlusThings": {
+        "desc": "C++那些事",
+        "info": {
+            "language": "C++",
+            "stars_num": "39,723",
+            "forks_num": "8,584",
+            "today_stars_num": "8 stars today"
+        }
+    }
+}
